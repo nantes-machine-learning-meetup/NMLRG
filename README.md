@@ -4,7 +4,7 @@ Nantes ML Reading Group
 Papers we've already read:
 
 - [Wide & Deep Learning for Recommender
-  Systems](https://arxiv.org/pdf/1606.07792.pdf) (2017-12-20
+  Systems](https://arxiv.org/pdf/1606.07792.pdf) (2017-12-20)
 - [High-Resolution Image Synthesis and Semantic Manipulation with
   Conditional GANs](https://tcwang0509.github.io/pix2pixHD/)
   (2017-12-20)
